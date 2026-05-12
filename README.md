@@ -84,7 +84,7 @@ The pipeline supports 20 facial attributes in the paper and can be extended furt
 
 ```bash
 # Create conda environment
-conda create -n counterface python=3.8 -y
+conda create -n counterface python=3.9 -y
 conda activate counterface
 
 # Install dependencies
