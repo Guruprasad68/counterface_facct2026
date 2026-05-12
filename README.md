@@ -103,4 +103,5 @@ Raise an issue or contact the corresponding author for any doubts in the release
 
 ## License
 
-This code is released for non-commercial research use only.
+- **Code** in this repository is licensed under the [MIT License](LICENSE). Copyright (c) 2026 [wi-pi](https://github.com/wi-pi).
+- **CounterFace dataset** is not in this repository and is offered only under separate terms: non-commercial research use; **not** for training or fine-tuning machine learning models. Request access via the contacts in [Dataset Access](#dataset-access) above. Those terms govern the data, not the MIT license on the code.
