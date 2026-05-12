@@ -1,0 +1,134 @@
+{
+  "facemask": {
+    "edit_guidance_scale": [10],
+    "edit_threshold": [0.97],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "sunglasses": {
+    "edit_guidance_scale": [9],
+    "edit_threshold": [0.96],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "mustache": {
+    "edit_guidance_scale": [8],
+    "edit_threshold": [0.99],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10],
+    "edit_momentum_scale": 0.5
+  },
+  "pigtails": {
+    "edit_guidance_scale": [10],
+    "edit_threshold": [0.96],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "scarf": {
+    "edit_guidance_scale": [9],
+    "edit_threshold": [0.99],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "blue_hair": {
+    "edit_guidance_scale": [4],
+    "edit_threshold": [0.92],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10],
+    "edit_momentum_scale": 0.4
+  },
+  "head_band": {
+    "edit_guidance_scale": [10],
+    "edit_threshold": [0.97],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "dark_colored_skin_tone": {
+    "edit_guidance_scale": [6, 3],
+    "edit_threshold": [0.94, 0.94],
+    "edit_weights": [1, 1],
+    "reverse_editing_direction": [false, true],
+    "edit_warmup_steps": [10, 10],
+    "edit_momentum_scale": 0.4
+  },
+  "light_colored_skin_tone": {
+    "edit_guidance_scale": [10, 7],
+    "edit_threshold": [0.9, 0.9],
+    "edit_weights": [1, 0.8],
+    "reverse_editing_direction": [false, true],
+    "edit_warmup_steps": [15, 10],
+    "edit_momentum_scale": 0.4
+  },
+  "buzz_cut": {
+    "edit_guidance_scale": [10, 10],
+    "edit_threshold": [0.98, 0.98],
+    "edit_weights": [1, 1],
+    "reverse_editing_direction": [false, true],
+    "edit_warmup_steps": [10, 10],
+    "edit_momentum_scale": 0.5
+  },
+  "glasses": {
+    "edit_guidance_scale": [9],
+    "edit_threshold": [0.99],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "heavy_makeup": {
+    "edit_guidance_scale": [9],
+    "edit_threshold": [0.9],
+    "edit_weights": [0.5],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [20],
+    "edit_momentum_scale": 0.5
+  },
+  "red_hair": {
+    "edit_guidance_scale": [10],
+    "edit_threshold": [0.92],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "shoulder_length_hair": {
+    "edit_guidance_scale": [10],
+    "edit_threshold": [0.92],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [8],
+    "edit_momentum_scale": 0.5
+  },
+  "goatee": {
+    "edit_guidance_scale": [8],
+    "edit_threshold": [0.97],
+    "edit_weights": [1]
+  },
+  "red_lipstick": {
+    "edit_guidance_scale": [5],
+    "edit_threshold": [0.99],
+    "edit_weights": [1.2],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "smile": {
+    "edit_guidance_scale": [10],
+    "edit_threshold": [0.96],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10]
+  },
+  "thick_beard": {
+    "edit_guidance_scale": [7],
+    "edit_threshold": [0.9],
+    "edit_weights": [1],
+    "reverse_editing_direction": [false],
+    "edit_warmup_steps": [10],
+    "edit_momentum_scale": 0.45
+  }
+}

@@ -1,0 +1,28 @@
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pandas>=2.0.0
+Pillow>=9.0.0
+tqdm>=4.65.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Diffusion models
+diffusers>=0.21.0
+
+# Face recognition
+facenet-pytorch>=2.5.0
+deepface>=0.0.79
+
+# VLM APIs
+anthropic>=0.18.0
+requests>=2.28.0
+google-cloud-aiplatform>=1.38.0
+python-dotenv>=1.0.0
+tenacity>=8.2.0
+
+# Artifact detection (optional - for distortion detection)
+transformers>=4.35.0
+# vllm>=0.2.0  # uncomment if using GAN distortion detection
+# llava  # install from https://github.com/haotian-liu/LLaVA

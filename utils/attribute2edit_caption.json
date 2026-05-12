@@ -1,0 +1,29 @@
+{
+  "facemask": "plain facemask, wearing plain facemask",
+  "sunglasses": "sunglasses, wearing sunglasses",
+  "mustache": "thick mustache, sporting a mustache",
+  "pigtails": "pigtails, pigtail hairstyle",
+  "scarf": "scarf, wearing scarf, neck scarf",
+  "blue_hair": "blue hair, color hair blue",
+  "head_band": "head band, wearing headband",
+  "dark_colored_skin_tone": [
+    "dark skin tone, darker skin tone",
+    "African features"
+  ],
+  "light_colored_skin_tone": [
+    "light colored skin tone, fair skin tone",
+    "dark skin tone, darker skin tone"
+  ],
+  "buzz_cut": [
+    " induction buzz cut, buzz cut hairstyle",
+    "long hair"
+  ],
+  "glasses": "glasses, wearing glasses",
+  "heavy_makeup": "heavy makeup, full face of makeup",
+  "red_hair": "red hair, color hair red",
+  "shoulder_length_hair": "shoulder length hair",
+  "goatee": "goatee facial hair, thick goatee",
+  "red_lipstick": "red lipstick",
+  "smile": "smile, smiling",
+  "thick_beard": "beard, full beard"
+}
